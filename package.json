@@ -1,0 +1,22 @@
+{
+  "name": "majic_server",
+  "version": "1.0.0",
+  "description": "Server side of massive Jira cloiner\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~\u001b[\u001b[C\u001b[C\u001b[C\u001b[Cner",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frabac72/majic_server.git"
+  },
+  "author": "Francesco Bacchelli",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/frabac72/majic_server/issues"
+  },
+  "homepage": "https://github.com/frabac72/majic_server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
